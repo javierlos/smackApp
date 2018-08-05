@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Smack
 //
-//  Created by javier salgado on 8/5/18.
-//  Copyright © 2018 javier salgado. All rights reserved.
+//  Created by Jonny B on 7/14/17.
+//  Copyright © 2017 Jonny B. All rights reserved.
 //
 
 import UIKit
